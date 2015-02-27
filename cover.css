@@ -31,7 +31,7 @@ body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-zibr8OXwqamIg7asrOEAVixezTnE_k3eAu-XOnrJI7yhuv47bw");
   
   background-color: #333;
-  /*background-size: auto;*/
+  background-size: auto;
 }
 body {
   color: #fff;
